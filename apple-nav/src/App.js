@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
+import { render } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import NavWrapper from './Components/NavWrapper'
+import NavWrapper from './Components/NavWrapper';
 
 class App extends Component {
   render() {
