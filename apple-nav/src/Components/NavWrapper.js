@@ -14,13 +14,13 @@ const NavWrapper = props => {
         <NavbarBrand href="/" className="logo">AppleLogo</NavbarBrand>
         <Nav className="Nav">
           <NavItem>
-            <NavLink href="/components/">Mac</NavLink>
+            <NavLink href="/components/"><Mac /></NavLink>
           </NavItem>
           <NavItem>
-            <NavLink href="">iPod</NavLink>
+            <NavLink href=""><Ipod /></NavLink>
           </NavItem>
           <NavItem>
-            <NavLink href="/components/">iPhone</NavLink>
+            <NavLink href="/components/"><Iphone /></NavLink>
           </NavItem>
           <NavItem>
             <NavLink href="/components/">Watch</NavLink>
